@@ -1806,11 +1806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilinb\\Desktop\\Bohdan\\Bohdan.csproj",
+      "projectUniqueName": "C:\\Users\\ilinb\\Documents\\GitHub\\Bohdan\\Bohdan\\Bohdan.csproj",
       "projectName": "Bohdan",
-      "projectPath": "C:\\Users\\ilinb\\Desktop\\Bohdan\\Bohdan.csproj",
+      "projectPath": "C:\\Users\\ilinb\\Documents\\GitHub\\Bohdan\\Bohdan\\Bohdan.csproj",
       "packagesPath": "C:\\Users\\ilinb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilinb\\Desktop\\Bohdan\\obj\\",
+      "outputPath": "C:\\Users\\ilinb\\Documents\\GitHub\\Bohdan\\Bohdan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilinb\\AppData\\Roaming\\NuGet\\NuGet.Config",

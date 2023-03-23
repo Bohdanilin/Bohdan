@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/SEKnjMd9a912i4B9hPrvH7XrIdY6sn7bnMhyWANW1RkOIIi+Yr0JAAT6fL3+fC4iKE0rN9kYkoC4DGM6IsWfg==",
+  "dgSpecHash": "/VJJfuPD2z7639XIhavtR2zZONfrEpx4SXX8SCAtpmxUZbq5++GmOKKyfZ+IGCqXu7g/3UI7gXMg71IpBGj1Ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilinb\\Desktop\\Bohdan\\Bohdan.csproj",
+  "projectFilePath": "C:\\Users\\ilinb\\Documents\\GitHub\\Bohdan\\Bohdan\\Bohdan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilinb\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.4\\microsoft.aspnetcore.authorization.7.0.4.nupkg.sha512",
     "C:\\Users\\ilinb\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.4\\microsoft.aspnetcore.components.7.0.4.nupkg.sha512",
